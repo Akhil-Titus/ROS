@@ -9,4 +9,4 @@ in terminal-2 run:
 
 in terminal-3 run: ~$ rosrun [package_name] [turtle_move.py]
 
-the progrsmme will move turtle in turtlesim from terminal-2 into a full circle and stop.
+the programme will move turtle in turtlesim from terminal-2 into a full circle and stop.
